@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
-  "version": "0.8.50",
+  "version": "0.8.51",
   "published_date": "2026-10-28",
   "author": "Eric",
-  "asset_name": "CruiseWatcher_v0.8.50_portable.zip",
-  "download_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/download/v0.8.50/CruiseWatcher_v0.8.50_portable.zip",
-  "release_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/tag/v0.8.50",
-  "size": 42194530,
-  "sha256": "f1beca69bf5e25d65b44b5ac68ea7fc3e0707764ba3a36f977f222f02145efad",
+  "asset_name": "CruiseWatcher_v0.8.51_portable.zip",
+  "download_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/download/v0.8.51/CruiseWatcher_v0.8.51_portable.zip",
+  "release_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/tag/v0.8.51",
+  "size": 42216364,
+  "sha256": "b236743fc1fde620a408b599c7fe95a8383ae292b3f3a2c6e118ab7c9edc7846",
   "notes": [
-    "啟動時每天最多自動檢查新版一次，設定可手動檢查",
-    "顯示更新摘要，下載並核對 SHA-256",
-    "校驗通過後由使用者手動解壓與重開，不自動安裝"
+    "一鍵更新並重新啟動，保留會員資料與設定",
+    "新版啟動失敗自動回復；成功更新後可手動回復上一版",
+    "查詢或訂房協助期間只下載，結束後再切換"
   ],
-  "update_mode": "check-download-manual-reopen",
+  "update_mode": "verified-restart-with-rollback",
   "automatic_update_available": false
 }
