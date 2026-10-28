@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "version": "0.8.49",
+  "published_date": "2026-10-28",
+  "author": "Eric",
+  "asset_name": "航旅查房助手_v0.8.49_分享套件.zip",
+  "download_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/download/v0.8.49/航旅查房助手_v0.8.49_分享套件.zip",
+  "release_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/tag/v0.8.49",
+  "size": 42176157,
+  "sha256": "612678c26b67276cbfc477089e1d26629ac81195f85f1caec128d649d3707080",
+  "notes": [
+    "新增清單／月曆切換",
+    "點日期查看房型、積分與兩人／四人港務費",
+    "保存結果維持上次標示"
+  ],
+  "automatic_update_available": false
+}
