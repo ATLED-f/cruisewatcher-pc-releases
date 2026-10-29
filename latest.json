@@ -1,35 +1,15 @@
 {
   "schema_version": 1,
-  "version": "0.8.53",
-  "published_date": "2026-10-29",
+  "version": "0.8.56",
+  "published_date": "2026-10-30",
   "author": "Eric",
-  "asset_name": "CruiseWatcher_v0.8.53_portable.zip",
-  "download_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/download/v0.8.53/CruiseWatcher_v0.8.53_portable.zip",
-  "release_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/tag/v0.8.53",
-  "size": 42226230,
-  "sha256": "5cc366b080a4581eda45b72ae769fe05b1afa919a33e21f12c329539d206ca6f",
+  "asset_name": "CruiseWatcher_v0.8.56_portable.zip",
+  "download_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/download/v0.8.56/CruiseWatcher_v0.8.56_portable.zip",
+  "release_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/tag/v0.8.56",
+  "size": 42227229,
+  "sha256": "6f4c21cd018a3064910eeeb107e976728a315bb4269c2d721cbab45faacb5773",
   "notes": [
-    "固定檔名新版 v0.8.55 已發布；v0.8.53 以前首次需手動解壓切換一次。",
-    "請至 GitHub Releases 下載 v0.8.55，保留原 CruiseWatcherData，開啟 CruiseWatcher.exe。",
-    "此舊檔名相容通道維持 v0.8.53；改用固定入口後即可自動取得新版資訊。"
-  ],
-  "update_mode": "verified-restart-with-rollback",
-  "automatic_update_available": false,
-  "fixed_executable_release": {
-    "schema_version": 1,
-    "version": "0.8.55",
-    "published_date": "2026-10-29",
-    "author": "Eric",
-    "asset_name": "CruiseWatcher_v0.8.55_portable.zip",
-    "download_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/download/v0.8.55/CruiseWatcher_v0.8.55_portable.zip",
-    "release_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/tag/v0.8.55",
-    "size": 42225646,
-    "sha256": "60a8fe3115807d7ac0bde88c3cadd820bd465821d41147be42de7da8981f7751",
-    "notes": [
-      "程式更新視窗縮為 420×200，移除改版內容區",
-      "只保留版本、更新狀態與必要操作，文字大小不變"
-    ],
-    "update_mode": "fixed-executable-with-rollback",
-    "automatic_update_available": false
-  }
+    "手動檢查與一鍵更新",
+    "查房、月曆、紀錄、航程與訂房補填"
+  ]
 }
