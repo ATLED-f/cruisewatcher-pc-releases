@@ -1,15 +1,17 @@
 # StarDream PC 發布
 
-作者：Eric。此倉庫只提供 Windows 免安裝分享套件、更新摘要與校驗資訊，不含原始碼、會員資料或內部報告。
+作者 Eric。僅提供 Windows 免安裝分享套件、更新資訊與校驗檔，不包含原始碼、會員資料或內部報告。
 
-## 下載
+## v0.8.54 · 固定入口
 
-請前往 [Releases](https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/latest) 下載，完整解壓後執行 EXE。需 Google Chrome，由會員自行登入及完成驗證。
+[下載分享套件](https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/download/v0.8.54/CruiseWatcher_v0.8.54_portable.zip)
 
-## v0.8.53 · 視窗尺寸
+EXE 固定使用 **CruiseWatcher.exe**。版本號保留於 ZIP、版本資料夾、程式內與 Windows 檔案內容。
 
-預設 540×600，最小 500×580（內容區，不含標題列與外框）。保留文字大小與既有視窗大小記憶，不強制重設已保存大小。
+### 舊版首次切換
 
-設定 → 檢查更新 → 更新並重新啟動；保留自己的 CruiseWatcherData 與其中 updates。查詢、登入或訂房協助期間只允許下載，結束後再切換。更新成功後短暫提示，失敗可回復，已下載套件重新校驗後沿用。
+關閉舊程式，將新版完整解壓到原本 EXE 所在資料夾，保留自己的 CruiseWatcherData，再開啟 CruiseWatcher.exe，將捷徑改指向它一次。不要只重新命名舊 EXE。之後沿用固定入口與一鍵更新。
 
-v0.8.50 只有下載功能，首次須手動開啟新版，之後可一鍵更新。更新後需重新確認登入，瀏覽器資料保留。SHA-256 為完整性核對，尚未加入獨立發布簽章。程式不會代按最終訂房或付款。
+舊更新器使用含版本檔名的白名單，latest.json 頂層保留相容 v0.8.53，避免送出不相容套件；新版讀取 fixed_executable_release。兩通道均使用固定倉庫 HTTPS 與 SHA-256 校驗。
+
+Windows 免安裝，需 Google Chrome，會員自行登入及完成驗證。更新後需重新確認登入，瀏覽器資料保留。SHA-256 為完整性核對，未加入獨立發布簽章。程式不代按最終訂房或付款。
