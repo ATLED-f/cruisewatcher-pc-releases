@@ -2,9 +2,11 @@
 
 作者 Eric。僅提供 Windows 免安裝分享套件、更新資訊與校驗檔，不包含原始碼、會員資料或內部報告。
 
-## v0.8.54 · 固定入口
+## v0.8.55 · 精簡更新視窗
 
-[下載分享套件](https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/download/v0.8.54/CruiseWatcher_v0.8.54_portable.zip)
+[下載分享套件](https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/download/v0.8.55/CruiseWatcher_v0.8.55_portable.zip)
+
+程式更新視窗為 420×200，僅顯示版本、狀態與必要操作，不顯示改版內容。
 
 EXE 固定使用 **CruiseWatcher.exe**。版本號保留於 ZIP、版本資料夾、程式內與 Windows 檔案內容。
 
