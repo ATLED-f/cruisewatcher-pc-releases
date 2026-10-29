@@ -9,10 +9,28 @@
   "size": 42226230,
   "sha256": "5cc366b080a4581eda45b72ae769fe05b1afa919a33e21f12c329539d206ca6f",
   "notes": [
-    "主視窗預設改為 540×600、最小 500×580",
-    "保留已儲存視窗大小、位置與最大化狀態",
-    "文字大小、卡片與主要按鈕維持原樣"
+    "固定檔名新版 v0.8.54 已發布；v0.8.53 以前首次需手動解壓切換一次。",
+    "請至 GitHub Releases 下載 v0.8.54，保留原 CruiseWatcherData，開啟 CruiseWatcher.exe。",
+    "此舊檔名相容通道維持 v0.8.53；改用固定入口後即可自動取得新版資訊。"
   ],
   "update_mode": "verified-restart-with-rollback",
-  "automatic_update_available": false
+  "automatic_update_available": false,
+  "fixed_executable_release": {
+    "schema_version": 1,
+    "version": "0.8.54",
+    "published_date": "2026-10-29",
+    "author": "Eric",
+    "asset_name": "CruiseWatcher_v0.8.54_portable.zip",
+    "download_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/download/v0.8.54/CruiseWatcher_v0.8.54_portable.zip",
+    "release_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/tag/v0.8.54",
+    "size": 42226867,
+    "sha256": "09b93cfa13b6de86c8e29a7749a16d77d5bb6b21faf4adfa56020d517335ec9c",
+    "notes": [
+      "主程式固定為 CruiseWatcher.exe，版本保留於程式內與檔案內容",
+      "v0.8.53 以前首次須手動解壓到原資料夾、改指向固定入口一次",
+      "之後持續使用固定入口與一鍵更新，會員資料與設定沿用"
+    ],
+    "update_mode": "fixed-executable-with-rollback",
+    "automatic_update_available": false
+  }
 }
