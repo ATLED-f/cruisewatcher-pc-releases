@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
-  "version": "0.8.52",
+  "version": "0.8.53",
   "published_date": "2026-10-29",
   "author": "Eric",
-  "asset_name": "CruiseWatcher_v0.8.52_portable.zip",
-  "download_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/download/v0.8.52/CruiseWatcher_v0.8.52_portable.zip",
-  "release_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/tag/v0.8.52",
-  "size": 42222244,
-  "sha256": "8dd58aea4ea60b8e6fe4a15c06e90eebcd519ec2160d5965b41a1be9ddad7604",
+  "asset_name": "CruiseWatcher_v0.8.53_portable.zip",
+  "download_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/download/v0.8.53/CruiseWatcher_v0.8.53_portable.zip",
+  "release_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/tag/v0.8.53",
+  "size": 42226230,
+  "sha256": "5cc366b080a4581eda45b72ae769fe05b1afa919a33e21f12c329539d206ca6f",
   "notes": [
-    "更新視窗以主畫面置中，維持原文字大小與精簡排版",
-    "成功完成更新後，底部短暫顯示版本，每次更新只提示一次",
-    "重新開啟或檢查更新時，重新校驗並沿用有效的已下載套件"
+    "主視窗預設改為 540×600、最小 500×580",
+    "保留已儲存視窗大小、位置與最大化狀態",
+    "文字大小、卡片與主要按鈕維持原樣"
   ],
   "update_mode": "verified-restart-with-rollback",
   "automatic_update_available": false
