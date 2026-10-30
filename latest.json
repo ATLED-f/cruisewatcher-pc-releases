@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
-  "version": "0.8.57",
+  "version": "0.8.58",
   "published_date": "2026-10-31",
   "author": "Eric",
-  "asset_name": "CruiseWatcher_v0.8.57_portable.zip",
-  "download_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/download/v0.8.57/CruiseWatcher_v0.8.57_portable.zip",
-  "release_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/tag/v0.8.57",
-  "size": 42236862,
-  "sha256": "d2549e29221fab42a737c80111a0d37f4d3c4f731f5040060994566cef922d14",
+  "asset_name": "CruiseWatcher_v0.8.58_portable.zip",
+  "download_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/download/v0.8.58/CruiseWatcher_v0.8.58_portable.zip",
+  "release_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/tag/v0.8.58",
+  "size": 42243143,
+  "sha256": "08d2c1a84e173d12d74404cec41a2cbb4d2c703f8a83ab0b7ab898ffdf39bbb7",
   "notes": [
-    "手動檢查與一鍵更新",
-    "查房、月曆、紀錄、航程與訂房補填"
+    "主資料夾只留主程式與資料夾",
+    "手動檢查與一鍵更新"
   ]
 }
