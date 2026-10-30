@@ -8,8 +8,8 @@ Windows 免安裝。
 - 航程、碼頭資訊與分享圖卡
 - 官方訂房銜接與資料補填
 - 監控與 LINE 通知
-- 手動更新、成功後清理更新檔
+- 手動更新、成功後清理與檔案收納
 
-[下載 v0.8.57](https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/tag/v0.8.57)
+[下載 v0.8.58](https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/tag/v0.8.58)
 
 v0.8.53 以前請手動解壓更新，保留 CruiseWatcherData。
