@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "version": "0.8.59",
+  "version": "0.8.60",
   "published_date": "2026-10-31",
   "author": "Eric",
-  "asset_name": "CruiseWatcher_v0.8.59_portable.zip",
-  "download_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/download/v0.8.59/CruiseWatcher_v0.8.59_portable.zip",
-  "release_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/tag/v0.8.59",
-  "size": 42243363,
-  "sha256": "41f8f9b56ece12f69d778dfcc34765df9e9d2d1abc9871728d997d39fe1617b6",
+  "asset_name": "CruiseWatcher_v0.8.60_portable.zip",
+  "download_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/download/v0.8.60/CruiseWatcher_v0.8.60_portable.zip",
+  "release_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/tag/v0.8.60",
+  "size": 42243213,
+  "sha256": "d322858b56274606197c28a9e05ab70fbfec3036e213784cbf59dc50e98b092b",
   "notes": [
     "主資料夾只留主程式與資料夾",
     "手動檢查與一鍵更新"
