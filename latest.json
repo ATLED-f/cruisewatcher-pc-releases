@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
-  "version": "0.8.60",
-  "published_date": "2026-10-31",
+  "version": "0.8.64",
+  "published_date": "2026-11-03",
   "author": "Eric",
-  "asset_name": "CruiseWatcher_v0.8.60_portable.zip",
-  "download_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/download/v0.8.60/CruiseWatcher_v0.8.60_portable.zip",
-  "release_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/tag/v0.8.60",
-  "size": 42243213,
-  "sha256": "d322858b56274606197c28a9e05ab70fbfec3036e213784cbf59dc50e98b092b",
+  "asset_name": "CruiseWatcher_v0.8.64_portable.zip",
+  "download_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/download/v0.8.64/CruiseWatcher_v0.8.64_portable.zip",
+  "release_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/tag/v0.8.64",
+  "size": 42413759,
+  "sha256": "d6eba26d609c2771f6b30bbc0a0b10f0343e5bb172803f02fdc566c89e44af5b",
   "notes": [
-    "主資料夾只留主程式與資料夾",
-    "手動檢查與一鍵更新"
+    "會員登入與積分期限",
+    "查房、篩選與有房月曆"
   ]
 }
