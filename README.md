@@ -10,6 +10,6 @@ Windows 免安裝。
 - 監控與 LINE 通知
 - 手動更新與檔案收納
 
-[下載 v0.8.64](https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/download/v0.8.64/CruiseWatcher_v0.8.64_share.zip)
+[下載 v0.8.65](https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/download/v0.8.65/CruiseWatcher_v0.8.65_share.zip)
 
 v0.8.53 以前請手動解壓更新，保留 CruiseWatcherData。
