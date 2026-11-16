@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "version": "0.8.66",
+  "version": "0.8.67",
   "published_date": "2026-11-16",
   "author": "Eric",
-  "asset_name": "CruiseWatcher_v0.8.66_portable.zip",
-  "download_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/download/v0.8.66/CruiseWatcher_v0.8.66_portable.zip",
-  "release_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/tag/v0.8.66",
-  "size": 42416336,
-  "sha256": "cadaa9adcf18bc5d63a485d1de17b160f059478b0eb208c2666c8648b6f06046",
+  "asset_name": "CruiseWatcher_v0.8.67_portable.zip",
+  "download_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/download/v0.8.67/CruiseWatcher_v0.8.67_portable.zip",
+  "release_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/tag/v0.8.67",
+  "size": 42417755,
+  "sha256": "b48d8e879b8d12dd8db617188ae86e220c85ca0dc55da6faa1f8414dc9b0f0f8",
   "notes": [
-    "查房結果顯示目前會員尚未出發的客房積分預訂。"
+    "修正已付清的客房積分預訂無法顯示。"
   ]
 }
