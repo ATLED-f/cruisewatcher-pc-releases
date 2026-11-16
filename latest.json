@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "version": "0.8.72",
+  "version": "0.8.73",
   "published_date": "2026-11-16",
   "author": "Eric",
-  "asset_name": "CruiseWatcher_v0.8.72_portable.zip",
-  "download_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/download/v0.8.72/CruiseWatcher_v0.8.72_portable.zip",
-  "release_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/tag/v0.8.72",
-  "size": 42424974,
-  "sha256": "686467bef2f6e2b7db210ef2bc71b364b2deaaa8ece1f344eee728465b13bafe",
+  "asset_name": "CruiseWatcher_v0.8.73_portable.zip",
+  "download_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/download/v0.8.73/CruiseWatcher_v0.8.73_portable.zip",
+  "release_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/tag/v0.8.73",
+  "size": 42427814,
+  "sha256": "986e39bc326efae65e293e27fbe0a7a1495c1a36b9f38a8495b75b828993bba4",
   "notes": [
-    "查詢清單與月曆顯示已訂房航程。",
-    "已訂房卡片顯示出發倒數、返抵日期、房型與人數。",
-    "可查看行程與訂房付款明細。"
+    "月曆從星期日開始，已訂房日期用亮黃色標記。",
+    "查詢紀錄保留當次已訂房摘要。",
+    "查房結果保存後，通知處理失敗另行提示。"
   ]
 }
