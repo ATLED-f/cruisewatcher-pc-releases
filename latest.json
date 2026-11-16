@@ -1,15 +1,14 @@
 {
   "schema_version": 1,
-  "version": "0.8.65",
-  "published_date": "2026-11-11",
+  "version": "0.8.66",
+  "published_date": "2026-11-16",
   "author": "Eric",
-  "asset_name": "CruiseWatcher_v0.8.65_portable.zip",
-  "download_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/download/v0.8.65/CruiseWatcher_v0.8.65_portable.zip",
-  "release_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/tag/v0.8.65",
-  "size": 42413281,
-  "sha256": "e2097304f1cb667061d33741334f116559b56b5a4ebddc1e361fd6d33eb7c263",
+  "asset_name": "CruiseWatcher_v0.8.66_portable.zip",
+  "download_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/download/v0.8.66/CruiseWatcher_v0.8.66_portable.zip",
+  "release_url": "https://github.com/ATLED-f/cruisewatcher-pc-releases/releases/tag/v0.8.66",
+  "size": 42416336,
+  "sha256": "cadaa9adcf18bc5d63a485d1de17b160f059478b0eb208c2666c8648b6f06046",
   "notes": [
-    "登入後可先選港口、航線與人數，再開始查房。",
-    "更新基隆出發航程的官方 PDF 備援。"
+    "查房結果顯示目前會員尚未出發的客房積分預訂。"
   ]
 }
